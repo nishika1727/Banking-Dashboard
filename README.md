@@ -18,11 +18,6 @@ A comprehensive Power BI dashboard that visualizes key banking metrics such as *
 - Power BI
 - DAX (for measures and calculated columns)
 
-## 📸 Preview
-*(Include one or two screenshots from the dashboard here)*  
-Example:
-![Dashboard Preview](screenshots/page1.png)
-
 ## 🚀 How to Use
 1. Clone the repository.
 2. Open the `.pbix` file using Power BI Desktop.
